@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ajaybhat/ajaybhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ajay. I'm a full-stack Engineer at VMware.
 
-Here are some ideas to get you started:
+I build scalable and HA web apps that run in the cloud, both as part of on-prem and SaaS deployments. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🔭 I’m currently working on making this profile look professional yet appear hip.
+- 🌱 I’m currently learning Japanese.
+- 🤔 I’m looking for help with anime recommendations.
+- 💬 Ask me about anything Java, Python or Typescript.
+- 📫 How to reach me: Email.
+- ⚡ Fun fact: I can sleep anywhere.
